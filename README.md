@@ -1,2 +1,45 @@
 # androidQuizBasic
 App de Quiz feito em AndroidStudio
+
+App de basico para outros fins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
